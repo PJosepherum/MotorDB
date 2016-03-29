@@ -1,0 +1,44 @@
+html, body {
+    height: 100%
+}
+
+#off-canvas-wrapper {
+    height: auto;
+    height: 100%;
+}
+
+#off-canvas-wrapper-inner {
+    margin-bottom: 40px;
+    height: 100%;
+}
+
+#sidebar {
+    height: 100%;
+}
+
+.userbox {
+    margin-top: 1em;
+}
+
+#avatar {
+    border: 1px solid #000;
+    box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+    line-height: 0;
+    max-width: 100%;
+    transition: box-shadow 200ms ease-out;
+    border-radius: 50px;
+    margin-bottom: 1rem;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-right {
+    text-align: right;
+}
+
