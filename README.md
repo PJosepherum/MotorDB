@@ -1,4 +1,9 @@
 # MotorDB
+This was an example application I created for Just Develop It to demonstrate that I could quickly learn to utilise new technologies, having previously not worked with the particlular MVC.
+
+It is incomplete, but I did spend 50 consecutive hours (sleep is for the weak) to show my determination.
+
+# Tehcnologies
 Vagrant, Foundation, Phalcon, MySQL
 
 # Installation
